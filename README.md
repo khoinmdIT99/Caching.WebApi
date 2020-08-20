@@ -41,3 +41,8 @@ Here are the topics covered.
 
 Read the entire article here - 
 https://www.codewithmukesh.com/blog/redis-caching-in-aspnet-core/
+
+## Dịch thuật
+- Absolute Expiration: will expire the entry after a set amount of time
+- Priority
+- Sliding Expiration : will expire the entry if it hasn't been accessed in a set amount of time.
